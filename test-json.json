@@ -1,0 +1,16 @@
+{
+	"myKey": "myValue",
+	"myNestedObject": {
+		"myNestedKey": "anotherValue"
+	},
+	"myArray": [
+		{
+			"myNestedArrayKey": "myNestedArrayValue",
+			"someOtherKey": "someOtherValue"
+		},
+        {
+			"myNestedArrayKey": "myNestedArrayValue2",
+			"someOtherKey": "someOtherValue2"
+		}
+	]
+}
